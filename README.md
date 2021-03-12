@@ -23,7 +23,7 @@ The following tools were used in this project:
 ## :checkered_flag: Starting ##
 
 Click Here
-<a href="https://afiovinicius.github.io/coffee/" target="_blank"><a>
+(https://afiovinicius.github.io/coffee/)
 
 Made with :heart: by <a href="https://github.com/afiovinicius" target="_blank">Afio Vinicius</a>
 
