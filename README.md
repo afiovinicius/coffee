@@ -11,7 +11,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Express coffee machine made with html and css.
 
 ## :rocket: Technologies ##
 
@@ -24,7 +24,7 @@ The following tools were used in this project:
 
 ```bash
 # Click Here
-()
+(https://afiovinicius.github.io/coffee/)
 
 ```
 
