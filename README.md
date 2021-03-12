@@ -24,7 +24,7 @@ The following tools were used in this project:
 
 ```bash
 # Click Here
-(https://afiovinicius.github.io/coffee/)
+<a href="https://afiovinicius.github.io/coffee/" target="_blank"></a>
 
 ```
 
