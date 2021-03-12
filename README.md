@@ -17,16 +17,13 @@ Express coffee machine made with html and css.
 
 The following tools were used in this project:
 
-- [CSS3]
-- [HTML5]
+- CSS3
+- HTML5
 
 ## :checkered_flag: Starting ##
 
-```bash
 # Click Here
-<a href="https://afiovinicius.github.io/coffee/" target="_blank"></a>
-
-```
+<a href="https://afiovinicius.github.io/coffee/" target="_blank"><a>
 
 Made with :heart: by <a href="https://github.com/afiovinicius" target="_blank">Afio Vinicius</a>
 
